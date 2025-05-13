@@ -16,7 +16,7 @@ const Hero = () => {
       </div>
       <div className="relative flex flex-col justify-center items-center h-full text-center">
         <h1 className="text-7xl font-extrabold leading-tight mb-3 capitalize">
-          Book You Luxury Room
+          Book Your Luxury Room
         </h1>
         <p className="text-xl text-gray-300 mb-8">
           Get Spesial Offer Just For You Today!
